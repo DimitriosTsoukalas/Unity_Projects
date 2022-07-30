@@ -4,11 +4,16 @@ There are 4 projects in this repository. The content of this repository is just 
 
 Influences: 
 1). Diseño avanzado de videojuegos RPG con Unity - https://www.domestika.org/es/courses/1761-diseno-avanzado-de-videojuegos-rpg-con-unity.
+
 2). Introducción a Unity para videojuegos 2D - https://www.domestika.org/es/courses/716-introduccion-a-unity-para-videojuegos-2d.
-3). The 3x Unity's pathways: https://learn.unity.com/pathways
-4). Comp-3 Interactive: https://www.youtube.com/watch?v=2FTDa14nryI&t=915s
-5). Chrono ABI: https://www.youtube.com/watch?v=lHLZxd0O6XY 
-6). Blackthornprod: https://www.youtube.com/watch?v=dmQyfWxUNPw
+
+3). The 3x Unity's pathways: https://learn.unity.com/pathways.
+
+4). Comp-3 Interactive: https://www.youtube.com/watch?v=2FTDa14nryI&t=915s.
+
+5). Chrono ABI: https://www.youtube.com/watch?v=lHLZxd0O6XY. 
+
+6). Blackthornprod: https://www.youtube.com/watch?v=dmQyfWxUNPw.
 
 For the youtube channels, please subscribe,like and follow their publications.
 
